@@ -1,0 +1,107 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "They saw many fruits in the farm. The first picture is of an apple. Which picture is second?<br><img width='65%' src='./images/46.png'>",
+    "options": [
+      "Apple",
+      "Grapes",
+      "Orange"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "In the market they saw traditional goods. The first picture is of a flower vase. Which picture is fourth?<br><img width='65%' src='./images/47.png'>",
+    "options": [
+      "Flower vase",
+      "Basket",
+      "Painting"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "At the farm they saw vegetables. The first picture is of a tomato plant. Which picture is sixth?<br><img width='65%' src='./images/48.png'>",
+    "options": [
+      "Tomato",
+      "Carrot",
+      "Brinjal"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "In the farm they saw animals. The first picture is of a cow. Which picture is seventh?<br><img width='65%' src='./images/49.png'>",
+    "options": [
+      "Cow",
+      "Sheep",
+      "Horse"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "In the market they visited a jewellery shop that had a variety of items on display. The first picture is of a necklace. Which picture is ninth?<br><img width='65%' src='./images/50.png'>",
+    "options": [
+      "Necklace",
+      "Ring",
+      "Earrings"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "They took note of the unique vegetables they found. What is the ordinal number of 41?",
+    "options": [
+      "Forty-first",
+      "Forty-second",
+      "Forty-third",
+      "Forty-fourth"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "question": "After taking a long walk, they decided to count the number of vegetables they saw in the market. What is the ordinal number of 33?",
+    "options": [
+      "Thirty-second",
+      "Thirty-third",
+      "Thirty-first",
+      "Thirty-fifth"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "After visiting the farm, they made a list of the plants they learned about. Which of the following is an ordinal number?",
+    "options": [
+      "45",
+      "12th",
+      "Nine",
+      "Thirty five"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "While exploring the market, they bought many items. Which of the following is an ordinal number that represents the items they bought?",
+    "options": [
+      "Twenty",
+      "Two",
+      "Twenty-five",
+      "Twentieth"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Which of the following is not an ordinal number?",
+    "options": [
+      "Fifth",
+      "Thirty-first",
+      "Thirty",
+      "Sixth"
+    ],
+    "correct": 2
+  }
+]
